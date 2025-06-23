@@ -54,7 +54,7 @@ import { Box, Heading, Button } from '@chakra-ui/react'
 function App() {
   return (
     <Box p={8}>
-      <Heading mb={4}>Welcome to Our Agency</Heading>
+      <Heading mb={4}>Welcome to Our Agency!</Heading>
       <Button colorScheme='teal'>Contact Us</Button>
     </Box>
   )
